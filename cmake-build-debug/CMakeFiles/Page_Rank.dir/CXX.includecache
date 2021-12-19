@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vishwa/Desktop/College/Academics/Semester 6 Summer 2021/Data Structures and Algorithms/Page_Rank/main.cpp
+iostream
+-
+vector
+-
+map
+-
+iomanip
+-
+
